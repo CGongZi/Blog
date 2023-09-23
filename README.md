@@ -2,7 +2,7 @@
 
 ## 最新
 
-2022 年 12 月 12 日 更新 React 系列
+2022 年 12 月 12 日 更新 React 系列1
 
 ## 公众号
 
@@ -16,6 +16,11 @@
 
 ## 专栏
 
+* [掘金](https://juejin.im/user/58e4b9b261ff4b006b3227f4)
+* [思否](https://segmentfault.com/u/yayu/articles)
+* [知乎](https://zhuanlan.zhihu.com/c_1042806379215601664)
+* [语雀](https://www.yuque.com/qingyu-fasl3/od8gmv)
+* [慕课](https://www.imooc.com/u/306841)
 * [掘金](https://juejin.im/user/58e4b9b261ff4b006b3227f4)
 * [思否](https://segmentfault.com/u/yayu/articles)
 * [知乎](https://zhuanlan.zhihu.com/c_1042806379215601664)
